@@ -1,0 +1,243 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	/*background:url(images/fondo.jpg);*/
+	background-color:#666;
+	text-align: center;
+}
+body * { text-align: left; }
+
+#contenedor{	
+	width:954px;
+	margin: 0 auto;
+}
+
+#bordegris{
+	background:#333 no-repeat;
+	height:4px;
+	clear:both;
+}
+#bordegrisizq{
+	background:#333 no-repeat;
+	width:4px;
+	height:98px;
+	float:right;
+}
+#bordegrisder{
+	background:#333 no-repeat;
+	width:4px;
+	height:98px;
+}
+#banner{
+	background-image:url(images/banner.jpg);
+	background-repeat:no-repeat;
+	width:946px;
+	height:98px;
+	float:right;
+}
+#contenedorbanner{
+	width:954px;
+}
+#menu{
+	width:954px;
+}
+#bordegrisizqmenu{
+	background:#333 no-repeat;
+	width:4px;
+	height:37px;
+	float:right;
+}
+#bordegrisdermenu{
+	background:#333 no-repeat;
+	width:4px;
+	height:37px;
+}
+#btnmenu{
+	width:946px;
+	height:37px;
+	background:url(images/menu.jpg) repeat-x;
+	float:right;
+}
+
+ul#submenus ul {
+display: none;
+position: relative;
+top: 24;
+left:0;
+margin:0;
+padding:0;
+text-align:center;
+}
+
+ul#submenus ul li {
+display: block !important;
+}
+
+ul#submenus li:hover ul,
+ul#submenus li.iehover ul {
+display: none;
+}
+
+ul#submenus li:hover ul,
+ul#submenus li.iehover ul{
+display: block;
+}
+
+#submenus {
+width:100%;
+padding: 0px;
+margin: 10px;
+text-align:center
+}
+
+#submenus li {
+margin:0 1px;
+width:98px;
+min-height:19px;
+text-align:center;
+/*background:#BBB;*/
+list-style:none;
+padding:2px 0;
+color:#000;
+}
+
+#submenus li:hover {
+/*background:#333;*/
+color:#FFF;
+}
+
+#submenu li:active{
+	color:#FFF;
+}
+
+#submenus li a {
+font:bold 12px Arial, Helvetica, sans-serif;
+color:#000;
+text-decoration:none;
+text-align:center;
+}
+
+#submenus li ul li{
+float:none;
+width:98px;
+margin:1px 0;
+background:#333;
+text-align:center;
+}
+
+ul#submenus li {
+	float: left;
+	display: inline;
+	position: relative;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight: bold;
+	color:#000;
+	text-decoration:none;
+	text-align:center;
+}
+
+ul#submenus li a{
+	float: none;
+	display: inline;
+	position: relative;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight: bold;
+	color:#000;
+	text-decoration:none;
+	text-align:center;
+}
+ul#submenus li a:hover{
+	float:none
+	display: inline;
+	position: relative;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight: bold;
+	color:#FFF;
+	text-decoration:none;
+	text-align:center;
+}
+
+/********************* aqui termina lo del banner *****************************************/
+
+#contenido{
+	clear:both;
+	width:954px;
+	height:auto;
+	margin: 15px auto;
+	border:#333 solid 4px;
+	background-color:#000;
+}
+#contenido p{
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	color:#FFF;
+}
+label{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#CCC;
+	width:100px;
+	float:left;
+}
+#datosclie{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000;
+	width:300px;
+	height:80px;
+	float:left;
+}
+input{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	width:300px;
+}
+
+textarea{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	width:300px;
+	height:80px;
+	color:#000;
+}
+fieldset{
+	padding:5px;
+}
+
+div.autocomplete
+{
+	clear:both;
+	position:absolute;
+	width:250px;
+	background-color:white;
+	border:1px solid #888;
+	margin:0px;
+	padding:0px;
+}
+
+div.autocomplete ul
+{
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+}
+
+div.autocomplete ul li.selected
+{
+	background-color:#ffb;
+}
+
+div.autocomplete ul li
+{
+	list-style-type:none;
+	display:block;
+	margin:0px;
+	padding:2px;
+	height:24px;
+	cursor:pointer;
+}

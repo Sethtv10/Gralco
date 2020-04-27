@@ -1,0 +1,90 @@
+<?php
+	$clave="";
+	$usuario="";
+	$zonas="";
+	$permisos="";
+// revisamos si es login por sesiones o por formulario
+if (!isset($_POST['usuario_digitado']) && !isset($_POST['clave_digitada'])) {
+	session_start();
+
+
+	//usamos los valores de las sesiones
+	$usuario = $_SESSION['usera'];
+	$clave = $_SESSION['password'];
+	$zonas=$_SESSION['zonas'];
+	$permisos=$_SESSION['perm'];
+}else{
+	// usamos los datos ingresados
+	session_start();
+	//borramos las sessiones por si existen
+	unset($_SESSION['usera']);
+	unset($_SESSION['password']);
+	unset($_SESSION['zonas']);
+	unset($_SESSION['perm']);
+		
+	$usuario = $_POST['usuario_digitado'];
+	$clave = md5(trim($_POST['clave_digitada']));
+	$_SESSION['usera'] = $usuario;
+	$_SESSION['password'] = $clave;
+	$_SESSION['zonas'] = $zonas;
+	$_SESSION['perm'] = $permisos;
+}
+
+if (!$usuario) {
+	// no hay login disponible
+	include("interface.php");
+	exit;
+}
+if (!$clave) {
+	// no hay contraseña
+	$mensaje = "contraseña incorrecta";
+	include("interface.php");
+	exit;
+}
+// nos conectamos a la bd
+$cnx = conectar();
+if (mysqli_connect_errno())
+  {
+  echo "Failed to connect to MySQL: " . mysqli_connect_error();
+  }
+//buscamos al usuario
+$userQuery = mysqli_query($cnx, "SELECT * FROM users WHERE user = '$usuario'");
+// revisamos usuario y password
+if (mysqli_num_rows($userQuery) > 0) {
+	// usuario existe, seguimos
+	$userArray = mysqli_fetch_array($userQuery);
+
+	$permisos=$userArray['permisos'];
+	$zonas=$userArray['zonas'];
+	$_SESSION['perm']=$permisos;
+	$_SESSION['zonas']=$zonas;
+		
+	if ($usuario != $userArray['user']) {
+		// caso sensitivo, usuario no está presente en bd
+		$message = "Usuario no Existe";
+		echo $message;
+		//session_destroy();
+		include("interface.php");
+		exit;
+	}
+	if (!$userArray['password']) {
+		// no tiene clave en bd, no entra
+		$message = "No se encontró contraseña para el usuario";
+		include("interface.php");
+		exit;
+	}
+	if ($userArray['password'] != $clave) {
+		// contraseña es incorrecta
+		$message = "Contraseña es incorrecta";
+		include("interface.php");
+		exit;
+	}
+}else{
+	// usuario no existe del todo.
+	$message = "Usuario no Existe";
+	include("interface.php");
+	exit;
+}
+//si hemos llegado hasta aqui significa que el login es correcto.
+mysqli_close($cnx);
+?>

@@ -1,0 +1,315 @@
+<?xml version="1.0"?>
+<xml>
+  <process id="137" processID="5bbc84ee-0045-4fb5-b87e-acc5a2449f0f" creationDate="2018-12-11 01:22:16" status="terminado" formaId="0ec82f42-540e-4fa5-abd4-2cb3edc1902d">
+    <userCreator id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+    <processTale>
+      <chapter groupUUID="b68dc6e4-20ec-8e71-a547-53ceb3f7e116" launching="2018-12-11 01:22:16">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part primitiveUUID="bc1682d5-5840-4592-90b1-4cda4fd689ca" primitiveId="fbe8d8c0-d5c8-7a47-02d4-e8397e21a267" launching="2018-12-11 01:22:16" closing="2018-12-11 01:22:16">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          <costume functionType="parameterEvalDirecto" launching="2018-12-11 01:22:16" parametro="$formaUUID=&quot;130fbbe6-6479-4b8e-9de4-bea8468399e8&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+        </part>
+      </chapter>
+      <chapter groupUUID="b68dc6e4-20ec-8e71-a547-53ceb3f7e116" launching="2018-12-11 01:22:16">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part functionType="ajaxController" functionUUID="85c576a4-9b81-4f7c-bf8a-69b6a77c9280" functionId="2" launching="2018-12-11 01:22:16" closing="2018-12-11 01:22:16">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        </part>
+      </chapter>
+      <chapter groupUUID="b68dc6e4-20ec-8e71-a547-53ceb3f7e116" launching="2018-12-11 01:22:19">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part functionType="ajaxController" functionUUID="85c576a4-9b81-4f7c-bf8a-69b6a77c9280" functionId="2" launching="2018-12-11 01:22:19" closing="2018-12-11 01:22:19">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        </part>
+      </chapter>
+      <chapter groupUUID="b68dc6e4-20ec-8e71-a547-53ceb3f7e116" launching="2018-12-11 01:22:23">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part functionType="ajaxController" functionUUID="85c576a4-9b81-4f7c-bf8a-69b6a77c9280" functionId="2" launching="2018-12-11 01:22:23" closing="2018-12-11 01:22:23">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        </part>
+      </chapter>
+      <chapter groupUUID="b68dc6e4-20ec-8e71-a547-53ceb3f7e116" launching="2018-12-11 01:22:25">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part functionType="ajaxController" functionUUID="85c576a4-9b81-4f7c-bf8a-69b6a77c9280" functionId="2" launching="2018-12-11 01:22:25" closing="2018-12-11 01:22:25">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        </part>
+      </chapter>
+      <chapter groupUUID="b68dc6e4-20ec-8e71-a547-53ceb3f7e116" launching="2018-12-11 01:22:33">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part functionType="ajaxController" functionUUID="85c576a4-9b81-4f7c-bf8a-69b6a77c9280" functionId="2" launching="2018-12-11 01:22:33" closing="2018-12-11 01:22:33">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        </part>
+      </chapter>
+      <chapter groupUUID="b68dc6e4-20ec-8e71-a547-53ceb3f7e116" launching="2018-12-11 01:22:33" closing="2018-12-11 01:22:33">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+      </chapter>
+      <chapter groupUUID="3537b109-d507-eabd-162e-576d3d5e2497" launching="2018-12-11 01:22:33" closing="2018-12-11 01:22:33">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+      </chapter>
+      <chapter groupUUID="714ba889-0e4a-3d07-f0de-8469f857f430" launching="2018-12-11 01:22:33" closing="2018-12-11 01:22:33">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part primitiveUUID="fc71d1ea-f0ea-4ad1-acd3-62c3bf54cc88" primitiveId="394596da-a856-9d63-e706-06f27b62f292" launching="2018-12-11 01:22:33" closing="2018-12-11 01:22:33">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        </part>
+      </chapter>
+      <chapter groupUUID="c1883cce-d7ce-84cb-cad0-c01f419df93d" launching="2018-12-11 01:22:33" closing="2018-12-11 01:22:33">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part primitiveUUID="5b3988b0-f76d-40cd-a22c-80b4536692ff" primitiveId="5aebc9ea-53f2-1e92-7e8e-e9006090e5f6" launching="2018-12-11 01:22:33" closing="2018-12-11 01:22:33">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          <costume functionType="parameterEval" launching="2018-12-11 01:22:33" inst="$c = new PrimitiveExecute($this); $functionExecute = function(){ &#10; return &quot;cotizacion_{$this-&gt;controller-&gt;xmlObj-&gt;process['id']}&quot;; &#10; }; $resultParametro = $functionExecute-&gt;bindTo($c)();" res="cotizacion_137" parametro="$ruta=&quot;cotizacion_137&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+        </part>
+        <part primitiveUUID="5b3988b0-f76d-40cd-a22c-80b4536692ff" primitiveId="864cd36e-7d52-acab-815a-2e9cadad256d" launching="2018-12-11 01:22:33" closing="2018-12-11 01:22:33">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          <costume functionType="parameterEval" launching="2018-12-11 01:22:33" inst="$c = new PrimitiveExecute($this); $functionExecute = function(){ &#10; //acta Constitutiva solo para personas morales &#10; $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); &#10; if (($forma-&gt;valorForma('tipocliente') == 'PFAEAB') || &#10;     ($forma-&gt;valorForma('tipocliente') == 'PFAEC') || &#10;     ($forma-&gt;valorForma('tipocliente') == 'PFAEB2B')) &#10;     return &quot;cotizacion_{$this-&gt;controller-&gt;xmlObj-&gt;process['id']}&quot;; //Se regresa el mismo repositorio ya creado &#10; else &#10;     return &quot;cotizacion_{$this-&gt;controller-&gt;xmlObj-&gt;process['id']}/actaConstitutiva&quot;; &#10; }; $resultParametro = $functionExecute-&gt;bindTo($c)();" res="cotizacion_137" parametro="$ruta=&quot;cotizacion_137&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+        </part>
+        <part primitiveUUID="5b3988b0-f76d-40cd-a22c-80b4536692ff" primitiveId="00906c66-7374-85c7-a18a-6ba66edd4687" launching="2018-12-11 01:22:33" closing="2018-12-11 01:22:33">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          <costume functionType="parameterEval" launching="2018-12-11 01:22:33" inst="$c = new PrimitiveExecute($this); $functionExecute = function(){ &#10; return &quot;cotizacion_{$this-&gt;controller-&gt;xmlObj-&gt;process['id']}/identificacion&quot;; &#10; }; $resultParametro = $functionExecute-&gt;bindTo($c)();" res="cotizacion_137/identificacion" parametro="$ruta=&quot;cotizacion_137/identificacion&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+        </part>
+        <part primitiveUUID="5b3988b0-f76d-40cd-a22c-80b4536692ff" primitiveId="46a0e15e-4407-0f58-a09e-0428ff9c7785" launching="2018-12-11 01:22:33" closing="2018-12-11 01:22:33">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          <costume functionType="parameterEval" launching="2018-12-11 01:22:33" inst="$c = new PrimitiveExecute($this); $functionExecute = function(){ &#10; //acta Constitutiva solo para personas morales &#10; $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); &#10; if (($forma-&gt;valorForma('tipocliente') == 'PFAEAB') || &#10;     ($forma-&gt;valorForma('tipocliente') == 'PFAEC') || &#10;     ($forma-&gt;valorForma('tipocliente') == 'PFAEB2B')) &#10;     return &quot;cotizacion_{$this-&gt;controller-&gt;xmlObj-&gt;process['id']}&quot;; //Se regresa el mismo repositorio ya creado &#10; else &#10;     return &quot;cotizacion_{$this-&gt;controller-&gt;xmlObj-&gt;process['id']}/identificacionRepresentanteLegal&quot;; &#10; }; $resultParametro = $functionExecute-&gt;bindTo($c)();" res="cotizacion_137" parametro="$ruta=&quot;cotizacion_137&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+        </part>
+      </chapter>
+      <chapter groupUUID="34e33a8e-8e37-d454-6a16-fe9540d6cd33" launching="2018-12-11 01:22:33">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part primitiveUUID="1bb2a663-2339-45e8-9107-adf620df19a8" primitiveId="82ea90c2-052d-2137-75a2-a1a433047e34" launching="2018-12-11 01:22:33" closing="2018-12-11 01:22:33">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          <costume functionType="parameterEvalDirecto" launching="2018-12-11 01:22:33" parametro="$mensaje=&quot;Se han enviado los datos al cliente...&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+          <costume functionType="parameterEvalDirecto" launching="2018-12-11 01:22:33" parametro="$titulo=&quot;Forma enviada&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+        </part>
+        <part primitiveUUID="9588f60a-c7dc-4645-abf9-a2d969b89868" primitiveId="7fda158d-11f6-95e8-9434-ae337b716b36" launching="2018-12-11 01:22:33" closing="2018-12-11 01:22:33">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          <costume functionType="parameterEval" launching="2018-12-11 01:22:33" inst="$c = new PrimitiveExecute($this); $functionExecute = function(){  &#10;     $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); &#10;     $correo = $forma-&gt;valorForma(&quot;correo&quot;); &#10;     $cliente = $forma-&gt;valorForma(&quot;razonsocial&quot;); &#10;     $userId = $this-&gt;controller-&gt;aauth-&gt;get_user_id($correo); &#10;     return $userId;}; $resultParametro = $functionExecute-&gt;bindTo($c)();" res="36" parametro="$idUsr=&quot;36&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+          <costume functionType="parameterEvalDirecto" launching="2018-12-11 01:22:33" parametro="$filtro=&quot;cotizacionUsr&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+          <costume functionType="parameterEval" launching="2018-12-11 01:22:33" inst="$c = new PrimitiveExecute($this); $functionExecute = function(){  &#10;     $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); &#10;     $cliente = $forma-&gt;valorForma(&quot;razonsocial&quot;); &#10;     return &quot;Revise su cotizaci&#xF3;n aqu&#xED; ($cliente)&quot;;}; $resultParametro = $functionExecute-&gt;bindTo($c)();" res="Revise su cotizaci&#xF3;n aqu&#xED; (Laboratorios PISA de M&#xE9;xico S.A. de C.V.)" parametro="$mensajeAEnviar=&quot;Revise su cotizaci&#xF3;n aqu&#xED; (Laboratorios PISA de M&#xE9;xico S.A. de C.V.)&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+          <costume functionType="parameterEval" launching="2018-12-11 01:22:33" inst="$c = new PrimitiveExecute($this); $functionExecute = function(){ &#10; //El delegado es el creador del proceso... tambi&#xE9;n puede ver el proceso &#10; return $this-&gt;controller-&gt;xmlObj-&gt;process-&gt;userCreator[&quot;id&quot;];}; $resultParametro = $functionExecute-&gt;bindTo($c)();" res="9" parametro="$delegados=&quot;9&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+        </part>
+      </chapter>
+      <chapter groupUUID="34e33a8e-8e37-d454-6a16-fe9540d6cd33" launching="2018-12-11 01:22:36" closing="2018-12-11 01:22:36">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part primitiveUUID="b89daac1-2f52-4d0a-a2d4-50b0394412b9" primitiveId="6e8c4ae4-6a35-4281-3e4e-c1b1bb090271" launching="2018-12-11 01:22:36" closing="2018-12-11 01:22:36">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        </part>
+      </chapter>
+      <chapter groupUUID="41acbac1-0332-8c85-6aed-f4ee1b0015a0" launching="2018-12-11 01:22:36">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part primitiveUUID="bc1682d5-5840-4592-90b1-4cda4fd689ca" primitiveId="6cc7d7d5-a4ad-c238-2f2c-eed58d8e3a9b" launching="2018-12-11 01:22:36" closing="2018-12-11 01:22:36">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          <costume functionType="parameterEvalDirecto" launching="2018-12-11 01:22:36" parametro="$formaUUID=&quot;871f93dd-f2db-4caf-9685-e7712250a794&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+        </part>
+      </chapter>
+      <chapter groupUUID="41acbac1-0332-8c85-6aed-f4ee1b0015a0" launching="2018-12-11 01:22:36">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part functionType="ajaxController" functionUUID="09f2c89c-31a8-4c7c-821c-9d49c1093b91" functionId="4" launching="2018-12-11 01:22:36" closing="2018-12-11 01:22:36">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        </part>
+      </chapter>
+      <chapter groupUUID="41acbac1-0332-8c85-6aed-f4ee1b0015a0" launching="2018-12-11 01:22:39">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part functionType="ajaxController" functionUUID="09f2c89c-31a8-4c7c-821c-9d49c1093b91" functionId="4" launching="2018-12-11 01:22:39" closing="2018-12-11 01:22:39">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        </part>
+      </chapter>
+      <chapter groupUUID="41acbac1-0332-8c85-6aed-f4ee1b0015a0" launching="2018-12-11 01:22:39" closing="2018-12-11 01:22:39">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+      </chapter>
+      <chapter groupUUID="76220e99-69ad-130b-d98c-5415c160a400" launching="2018-12-11 01:22:39" closing="2018-12-11 01:22:39">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+      </chapter>
+      <chapter groupUUID="af5f8175-9537-763e-1b0f-037fa1e3c008" launching="2018-12-11 01:22:39">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part primitiveUUID="1bb2a663-2339-45e8-9107-adf620df19a8" primitiveId="122efe0b-f3de-8943-2601-9e44d15899df" launching="2018-12-11 01:22:39" closing="2018-12-11 01:22:39">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          <costume functionType="parameterEvalDirecto" launching="2018-12-11 01:22:39" parametro="$mensaje=&quot;Se han enviado a revision sus Documentos&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+          <costume functionType="parameterEvalDirecto" launching="2018-12-11 01:22:39" parametro="$titulo=&quot;Cotizaciones&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+        </part>
+        <part primitiveUUID="9588f60a-c7dc-4645-abf9-a2d969b89868" primitiveId="152e9ba3-49c3-ff34-ec65-2053508e7aec" launching="2018-12-11 01:22:39" closing="2018-12-11 01:22:39">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          <costume functionType="parameterEval" launching="2018-12-11 01:22:39" inst="$c = new PrimitiveExecute($this); $functionExecute = function(){ &#10; return $this-&gt;controller-&gt;xmlObj-&gt;process-&gt;userCreator[&quot;id&quot;];}; $resultParametro = $functionExecute-&gt;bindTo($c)();" res="9" parametro="$idUsr=&quot;9&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+          <costume functionType="parameterEvalDirecto" launching="2018-12-11 01:22:39" parametro="$filtro=&quot;reCotizar&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+          <costume functionType="parameterEval" launching="2018-12-11 01:22:39" inst="$c = new PrimitiveExecute($this); $functionExecute = function(){  &#10;     $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); &#10;     $cliente = $forma-&gt;valorForma(&quot;razonsocial&quot;); &#10;     return &quot;Favor de revisar los Documentos del Cliente: ($cliente)&quot;;}; $resultParametro = $functionExecute-&gt;bindTo($c)();" res="Favor de revisar los Documentos del Cliente: (Laboratorios PISA de M&#xE9;xico S.A. de C.V.)" parametro="$mensajeAEnviar=&quot;Favor de revisar los Documentos del Cliente: (Laboratorios PISA de M&#xE9;xico S.A. de C.V.)&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+          <costume functionType="parameterEvalDirecto" launching="2018-12-11 01:22:39" parametro="$delegados=&quot;&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+        </part>
+      </chapter>
+      <chapter groupUUID="af5f8175-9537-763e-1b0f-037fa1e3c008" launching="2018-12-11 01:22:41" closing="2018-12-11 01:22:41">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+      </chapter>
+      <chapter groupUUID="fdedda90-e2c9-3be1-1f63-93c06b228db3" launching="2018-12-11 01:22:41">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part primitiveUUID="bc1682d5-5840-4592-90b1-4cda4fd689ca" primitiveId="969ddf66-8d6c-5736-5870-3dfa048f2b99" launching="2018-12-11 01:22:41" closing="2018-12-11 01:22:41">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          <costume functionType="parameterEvalDirecto" launching="2018-12-11 01:22:41" parametro="$formaUUID=&quot;0ec82f42-540e-4fa5-abd4-2cb3edc1902d&quot;;&#10;">
+            <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+          </costume>
+        </part>
+      </chapter>
+      <chapter groupUUID="fdedda90-e2c9-3be1-1f63-93c06b228db3" launching="2018-12-11 01:22:42">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part functionType="ajaxController" functionUUID="54a3a9b7-01e4-4693-a1ba-08bb0e30b939" functionId="12" launching="2018-12-11 01:22:42" closing="2018-12-11 01:22:42">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        </part>
+      </chapter>
+      <chapter groupUUID="fdedda90-e2c9-3be1-1f63-93c06b228db3" launching="2018-12-11 01:22:46">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part functionType="ajaxController" functionUUID="54a3a9b7-01e4-4693-a1ba-08bb0e30b939" functionId="12" launching="2018-12-11 01:22:46" closing="2018-12-11 01:22:46">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        </part>
+      </chapter>
+      <chapter groupUUID="fdedda90-e2c9-3be1-1f63-93c06b228db3" launching="2018-12-11 01:22:49">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        <part functionType="ajaxController" functionUUID="54a3a9b7-01e4-4693-a1ba-08bb0e30b939" functionId="12" launching="2018-12-11 01:22:49" closing="2018-12-11 01:22:49">
+          <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+        </part>
+      </chapter>
+      <chapter groupUUID="fdedda90-e2c9-3be1-1f63-93c06b228db3" launching="2018-12-11 01:22:49" closing="2018-12-11 01:22:49">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+      </chapter>
+      <chapter groupUUID="35951085-f355-80fe-9c08-614fcf5518b8" launching="2018-12-11 01:22:49" closing="2018-12-11 01:22:49">
+        <protagonist id="9" email="leonardo@consisarh.com.mx" name="Leonardo Zanatta "/>
+      </chapter>
+    </processTale>
+    <forms>
+      <form UUID="130fbbe6-6479-4b8e-9de4-bea8468399e8">
+        <fields>
+          <field name="formUUID" value="130fbbe6-6479-4b8e-9de4-bea8468399e8"/>
+          <field name="processId" value="137"/>
+          <field name="tipocliente" value="PFAEAB"/>
+          <field name="tipocotizacion" value="nueva"/>
+          <field name="clienteexistente" value="si"/>
+          <field name="cliente" value="7"/>
+          <field name="razonsocial" value="Laboratorios PISA de M&#xE9;xico S.A. de C.V."/>
+          <field name="calle" value=""/>
+          <field name="numeroexterior" value=""/>
+          <field name="numerointerior" value=""/>
+          <field name="correo" value="juan.perez@pisa.com.mx"/>
+          <field name="clientetelefono" value="(33)828282773"/>
+          <field name="marca" value="2"/>
+          <field name="modelo" value="5"/>
+          <field name="version" value="7"/>
+          <field name="anio" value="2018"/>
+          <field name="precio" value="0.00"/>
+          <field name="anticipo" value="0.00"/>
+          <field name="garantia" value="0.00"/>
+          <field name="depositob2b" value="0.00"/>
+          <field name="comisionapertura" value="2.8"/>
+          <field name="placas" value="3400"/>
+          <field name="localizador" value="normal"/>
+          <field name="localizador6" value="2320.00"/>
+          <field name="localizador12" value="2320.00"/>
+          <field name="localizador18" value="3074.00"/>
+          <field name="localizador24" value="3592.00"/>
+          <field name="localizador36" value="5104.00"/>
+          <field name="localizador48" value="6612.00"/>
+          <field name="localizador60" value="9352.00"/>
+          <field name="valorresidual" value="normal"/>
+          <field name="valorresidual6" value="50.00"/>
+          <field name="valorresidual12" value="50.00"/>
+          <field name="valorresidual18" value="45.00"/>
+          <field name="valorresidual24" value="40.00"/>
+          <field name="valorresidual36" value="30.00"/>
+          <field name="valorresidual48" value="15.00"/>
+          <field name="valorresidual60" value="5.00"/>
+          <field name="tasa" value="tasaAgencia"/>
+          <field name="tasa6" value="27.00"/>
+          <field name="tasa12" value="27.00"/>
+          <field name="tasa18" value="27.50"/>
+          <field name="tasa24" value="28.00"/>
+          <field name="tasa36" value="28.50"/>
+          <field name="tasa48" value="29.00"/>
+          <field name="tasa60" value="30.00"/>
+          <field name="plazos" value="[&quot;12meses&quot;,&quot;18meses&quot;,&quot;24meses&quot;,&quot;36meses&quot;,&quot;48meses&quot;]">
+            <value value="12meses"/>
+            <value value="18meses"/>
+            <value value="24meses"/>
+            <value value="36meses"/>
+            <value value="48meses"/>
+          </field>
+          <field name="tiposeguro" value="financiadoParcial"/>
+          <field name="sinrenta" value="no"/>
+          <field name="6meses" value="0"/>
+          <field name="12meses" value="0"/>
+          <field name="18meses" value="0"/>
+          <field name="24meses" value="0"/>
+          <field name="36meses" value="0"/>
+          <field name="48meses" value="0"/>
+          <field name="60meses" value="0"/>
+          <field name="nota" value=""/>
+          <field name="notificarcliente" value="notificarClienteSi"/>
+          <field name="enviarcotizacion" value=""/>
+        </fields>
+      </form>
+      <form UUID="871f93dd-f2db-4caf-9685-e7712250a794">
+        <fields>
+          <field name="formUUID" value="871f93dd-f2db-4caf-9685-e7712250a794"/>
+          <field name="processId" value="137"/>
+          <field name="solicitarcambios" value="no"/>
+          <field name="comentarios" value=""/>
+          <field name="enviardocumentos" value=""/>
+        </fields>
+      </form>
+      <form UUID="0ec82f42-540e-4fa5-abd4-2cb3edc1902d">
+        <fields>
+          <field name="formUUID" value="0ec82f42-540e-4fa5-abd4-2cb3edc1902d"/>
+          <field name="processId" value="137"/>
+          <field name="enviarmensaje" value="si"/>
+          <field name="comentarios" value="Hola"/>
+          <field name="botonenviarmensaje" value=""/>
+        </fields>
+      </form>
+    </forms>
+    <json json="{&quot;processUUID&quot;:&quot;5bbc84ee-0045-4fb5-b87e-acc5a2449f0f&quot;,&quot;groups&quot;:[{&quot;title&quot;:&quot;Cotizaci\u00f3n&quot;,&quot;UUID&quot;:&quot;b68dc6e4-20ec-8e71-a547-53ceb3f7e116&quot;,&quot;type&quot;:&quot;group&quot;,&quot;id&quot;:0,&quot;next&quot;:&quot;3537b109-d507-eabd-162e-576d3d5e2497&quot;,&quot;primitives&quot;:[{&quot;UUID&quot;:&quot;bc1682d5-5840-4592-90b1-4cda4fd689ca&quot;,&quot;parameters&quot;:{&quot;formaUUID&quot;:&quot;130fbbe6-6479-4b8e-9de4-bea8468399e8&quot;},&quot;id&quot;:&quot;fbe8d8c0-d5c8-7a47-02d4-e8397e21a267&quot;,&quot;lIdex&quot;:1}]},{&quot;title&quot;:&quot;Solicitar cotizar seguros&quot;,&quot;UUID&quot;:&quot;632ee36b-4b42-5c1a-5f3a-338194a6e0e7&quot;,&quot;type&quot;:&quot;group&quot;,&quot;id&quot;:1,&quot;next&quot;:&quot;50859b34-26bc-297f-b31d-f950d5942cf0&quot;,&quot;primitives&quot;:[{&quot;UUID&quot;:&quot;1bb2a663-2339-45e8-9107-adf620df19a8&quot;,&quot;parameters&quot;:{&quot;mensaje&quot;:&quot;Se ha enviado al responsable para cotizar seguro.&quot;,&quot;titulo&quot;:&quot;Cotizaciones&quot;},&quot;id&quot;:&quot;0c8d558c-0f3e-e5dd-ede2-86d8f2e0cee9&quot;,&quot;lIdex&quot;:1},{&quot;UUID&quot;:&quot;9588f60a-c7dc-4645-abf9-a2d969b89868&quot;,&quot;parameters&quot;:{&quot;idUsr&quot;:&quot;&lt;?php \n \/\/Se va a transferir ahorita a si mismo para cotizar \n return $this-&gt;controller-&gt;xmlObj-&gt;process-&gt;userCreator[\&quot;id\&quot;];&quot;,&quot;filtro&quot;:&quot;cotizarSeguro&quot;,&quot;mensajeAEnviar&quot;:&quot;Favor de cotizar seguro&quot;,&quot;delegados&quot;:&quot;&lt;?php \n \/\/El delegado es el creador del proceso... tambi\u00e9n puede ver el proceso \n return $this-&gt;controller-&gt;xmlObj-&gt;process-&gt;userCreator[\&quot;id\&quot;];&quot;},&quot;id&quot;:&quot;6776cf29-028f-c35b-b7f1-35f672dfcfdc&quot;,&quot;lIdex&quot;:3}]},{&quot;title&quot;:&quot;Calcular amortizaciones&quot;,&quot;UUID&quot;:&quot;714ba889-0e4a-3d07-f0de-8469f857f430&quot;,&quot;type&quot;:&quot;group&quot;,&quot;id&quot;:2,&quot;next&quot;:&quot;c1883cce-d7ce-84cb-cad0-c01f419df93d&quot;,&quot;primitives&quot;:[{&quot;UUID&quot;:&quot;fc71d1ea-f0ea-4ad1-acd3-62c3bf54cc88&quot;,&quot;parameters&quot;:[],&quot;id&quot;:&quot;394596da-a856-9d63-e706-06f27b62f292&quot;,&quot;lIdex&quot;:1}]},{&quot;title&quot;:&quot;Transferir a usuario&quot;,&quot;UUID&quot;:&quot;34e33a8e-8e37-d454-6a16-fe9540d6cd33&quot;,&quot;type&quot;:&quot;group&quot;,&quot;id&quot;:3,&quot;next&quot;:&quot;41acbac1-0332-8c85-6aed-f4ee1b0015a0&quot;,&quot;primitives&quot;:[{&quot;UUID&quot;:&quot;1bb2a663-2339-45e8-9107-adf620df19a8&quot;,&quot;parameters&quot;:{&quot;mensaje&quot;:&quot;Se han enviado los datos al cliente...&quot;,&quot;titulo&quot;:&quot;Forma enviada&quot;},&quot;id&quot;:&quot;82ea90c2-052d-2137-75a2-a1a433047e34&quot;,&quot;lIdex&quot;:2},{&quot;UUID&quot;:&quot;9588f60a-c7dc-4645-abf9-a2d969b89868&quot;,&quot;parameters&quot;:{&quot;idUsr&quot;:&quot;&lt;?php  \n     $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); \n     $correo = $forma-&gt;valorForma(\&quot;correo\&quot;); \n     $cliente = $forma-&gt;valorForma(\&quot;razonsocial\&quot;); \n     $userId = $this-&gt;controller-&gt;aauth-&gt;get_user_id($correo); \n     return $userId;&quot;,&quot;filtro&quot;:&quot;cotizacionUsr&quot;,&quot;mensajeAEnviar&quot;:&quot;&lt;?php  \n     $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); \n     $cliente = $forma-&gt;valorForma(\&quot;razonsocial\&quot;); \n     return \&quot;Revise su cotizaci\u00f3n aqu\u00ed ($cliente)\&quot;;&quot;,&quot;delegados&quot;:&quot;&lt;?php \n \/\/El delegado es el creador del proceso... tambi\u00e9n puede ver el proceso \n return $this-&gt;controller-&gt;xmlObj-&gt;process-&gt;userCreator[\&quot;id\&quot;];&quot;},&quot;id&quot;:&quot;7fda158d-11f6-95e8-9434-ae337b716b36&quot;,&quot;lIdex&quot;:4},{&quot;UUID&quot;:&quot;b89daac1-2f52-4d0a-a2d4-50b0394412b9&quot;,&quot;parameters&quot;:[],&quot;id&quot;:&quot;6e8c4ae4-6a35-4281-3e4e-c1b1bb090271&quot;,&quot;lIdex&quot;:1}]},{&quot;title&quot;:&quot;Comentarios a Cuanticus&quot;,&quot;UUID&quot;:&quot;41acbac1-0332-8c85-6aed-f4ee1b0015a0&quot;,&quot;type&quot;:&quot;group&quot;,&quot;id&quot;:4,&quot;next&quot;:&quot;76220e99-69ad-130b-d98c-5415c160a400&quot;,&quot;primitives&quot;:[{&quot;UUID&quot;:&quot;bc1682d5-5840-4592-90b1-4cda4fd689ca&quot;,&quot;parameters&quot;:{&quot;formaUUID&quot;:&quot;871f93dd-f2db-4caf-9685-e7712250a794&quot;},&quot;id&quot;:&quot;6cc7d7d5-a4ad-c238-2f2c-eed58d8e3a9b&quot;,&quot;lIdex&quot;:1}]},{&quot;title&quot;:&quot;Cotizar seguro&quot;,&quot;UUID&quot;:&quot;50859b34-26bc-297f-b31d-f950d5942cf0&quot;,&quot;type&quot;:&quot;group&quot;,&quot;id&quot;:5,&quot;next&quot;:&quot;714ba889-0e4a-3d07-f0de-8469f857f430&quot;,&quot;primitives&quot;:[{&quot;UUID&quot;:&quot;bc1682d5-5840-4592-90b1-4cda4fd689ca&quot;,&quot;parameters&quot;:{&quot;formaUUID&quot;:&quot;a502e373-12e9-4985-b029-dea4ebffeb70&quot;},&quot;id&quot;:&quot;a271f099-99e5-05a5-1ec7-1b084895e3ff&quot;,&quot;lIdex&quot;:1}]},{&quot;title&quot;:&quot;Transferir a ejecutivo para revisi\u00f3n&quot;,&quot;UUID&quot;:&quot;83455bb4-dc19-4f62-36fb-9019d430f31e&quot;,&quot;type&quot;:&quot;group&quot;,&quot;id&quot;:6,&quot;next&quot;:&quot;b68dc6e4-20ec-8e71-a547-53ceb3f7e116&quot;,&quot;primitives&quot;:[{&quot;UUID&quot;:&quot;1bb2a663-2339-45e8-9107-adf620df19a8&quot;,&quot;parameters&quot;:{&quot;mensaje&quot;:&quot;Se ha enviado sus comentarios al ejecutivo para su seguimiento&quot;,&quot;titulo&quot;:&quot;Cotizaciones&quot;},&quot;id&quot;:&quot;b44a1747-26b6-9028-5690-fa81f756ab88&quot;,&quot;lIdex&quot;:1},{&quot;UUID&quot;:&quot;9588f60a-c7dc-4645-abf9-a2d969b89868&quot;,&quot;parameters&quot;:{&quot;idUsr&quot;:&quot;&lt;?php \n return $this-&gt;controller-&gt;xmlObj-&gt;process-&gt;userCreator[\&quot;id\&quot;];&quot;,&quot;filtro&quot;:&quot;reCotizar&quot;,&quot;mensajeAEnviar&quot;:&quot;&lt;?php  \n     $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); \n     $cliente = $forma-&gt;valorForma(\&quot;razonsocial\&quot;); \n     return \&quot;Favor de hacer las modificaciones solicitadas ($cliente)\&quot;;&quot;,&quot;delegados&quot;:&quot;&quot;},&quot;id&quot;:&quot;f6aec867-1237-0660-f148-2932633e6e3a&quot;,&quot;lIdex&quot;:3}]},{&quot;title&quot;:&quot;Crear repositorios&quot;,&quot;UUID&quot;:&quot;c1883cce-d7ce-84cb-cad0-c01f419df93d&quot;,&quot;type&quot;:&quot;group&quot;,&quot;id&quot;:7,&quot;next&quot;:&quot;34e33a8e-8e37-d454-6a16-fe9540d6cd33&quot;,&quot;primitives&quot;:[{&quot;UUID&quot;:&quot;5b3988b0-f76d-40cd-a22c-80b4536692ff&quot;,&quot;parameters&quot;:{&quot;ruta&quot;:&quot;&lt;?php \n return \&quot;cotizacion_{$this-&gt;controller-&gt;xmlObj-&gt;process['id']}\&quot;; \n &quot;},&quot;id&quot;:&quot;5aebc9ea-53f2-1e92-7e8e-e9006090e5f6&quot;,&quot;lIdex&quot;:1},{&quot;UUID&quot;:&quot;5b3988b0-f76d-40cd-a22c-80b4536692ff&quot;,&quot;parameters&quot;:{&quot;ruta&quot;:&quot;&lt;?php \n \/\/acta Constitutiva solo para personas morales \n $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); \n if (($forma-&gt;valorForma('tipocliente') == 'PFAEAB') || \n     ($forma-&gt;valorForma('tipocliente') == 'PFAEC') || \n     ($forma-&gt;valorForma('tipocliente') == 'PFAEB2B')) \n     return \&quot;cotizacion_{$this-&gt;controller-&gt;xmlObj-&gt;process['id']}\&quot;; \/\/Se regresa el mismo repositorio ya creado \n else \n     return \&quot;cotizacion_{$this-&gt;controller-&gt;xmlObj-&gt;process['id']}\/actaConstitutiva\&quot;; \n &quot;},&quot;id&quot;:&quot;864cd36e-7d52-acab-815a-2e9cadad256d&quot;,&quot;lIdex&quot;:2},{&quot;UUID&quot;:&quot;5b3988b0-f76d-40cd-a22c-80b4536692ff&quot;,&quot;parameters&quot;:{&quot;ruta&quot;:&quot;&lt;?php \n return \&quot;cotizacion_{$this-&gt;controller-&gt;xmlObj-&gt;process['id']}\/identificacion\&quot;; \n &quot;},&quot;id&quot;:&quot;00906c66-7374-85c7-a18a-6ba66edd4687&quot;,&quot;lIdex&quot;:3},{&quot;UUID&quot;:&quot;5b3988b0-f76d-40cd-a22c-80b4536692ff&quot;,&quot;parameters&quot;:{&quot;ruta&quot;:&quot;&lt;?php \n \/\/acta Constitutiva solo para personas morales \n $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); \n if (($forma-&gt;valorForma('tipocliente') == 'PFAEAB') || \n     ($forma-&gt;valorForma('tipocliente') == 'PFAEC') || \n     ($forma-&gt;valorForma('tipocliente') == 'PFAEB2B')) \n     return \&quot;cotizacion_{$this-&gt;controller-&gt;xmlObj-&gt;process['id']}\&quot;; \/\/Se regresa el mismo repositorio ya creado \n else \n     return \&quot;cotizacion_{$this-&gt;controller-&gt;xmlObj-&gt;process['id']}\/identificacionRepresentanteLegal\&quot;; \n &quot;},&quot;id&quot;:&quot;46a0e15e-4407-0f58-a09e-0428ff9c7785&quot;,&quot;lIdex&quot;:4}]},{&quot;title&quot;:&quot;Transferir a ejecutivo para revisi\u00f3n de Documentos&quot;,&quot;UUID&quot;:&quot;af5f8175-9537-763e-1b0f-037fa1e3c008&quot;,&quot;type&quot;:&quot;group&quot;,&quot;id&quot;:8,&quot;next&quot;:&quot;fdedda90-e2c9-3be1-1f63-93c06b228db3&quot;,&quot;primitives&quot;:[{&quot;UUID&quot;:&quot;1bb2a663-2339-45e8-9107-adf620df19a8&quot;,&quot;parameters&quot;:{&quot;mensaje&quot;:&quot;Se han enviado a revision sus Documentos&quot;,&quot;titulo&quot;:&quot;Cotizaciones&quot;},&quot;id&quot;:&quot;122efe0b-f3de-8943-2601-9e44d15899df&quot;,&quot;lIdex&quot;:1},{&quot;UUID&quot;:&quot;9588f60a-c7dc-4645-abf9-a2d969b89868&quot;,&quot;parameters&quot;:{&quot;idUsr&quot;:&quot;&lt;?php \n return $this-&gt;controller-&gt;xmlObj-&gt;process-&gt;userCreator[\&quot;id\&quot;];&quot;,&quot;filtro&quot;:&quot;reCotizar&quot;,&quot;mensajeAEnviar&quot;:&quot;&lt;?php  \n     $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); \n     $cliente = $forma-&gt;valorForma(\&quot;razonsocial\&quot;); \n     return \&quot;Favor de revisar los Documentos del Cliente: ($cliente)\&quot;;&quot;,&quot;delegados&quot;:&quot;&quot;},&quot;id&quot;:&quot;152e9ba3-49c3-ff34-ec65-2053508e7aec&quot;,&quot;lIdex&quot;:3}]},{&quot;title&quot;:&quot;Checklist de Documentos&quot;,&quot;UUID&quot;:&quot;fdedda90-e2c9-3be1-1f63-93c06b228db3&quot;,&quot;type&quot;:&quot;group&quot;,&quot;id&quot;:9,&quot;next&quot;:&quot;35951085-f355-80fe-9c08-614fcf5518b8&quot;,&quot;primitives&quot;:[{&quot;UUID&quot;:&quot;bc1682d5-5840-4592-90b1-4cda4fd689ca&quot;,&quot;parameters&quot;:{&quot;formaUUID&quot;:&quot;0ec82f42-540e-4fa5-abd4-2cb3edc1902d&quot;},&quot;id&quot;:&quot;969ddf66-8d6c-5736-5870-3dfa048f2b99&quot;,&quot;lIdex&quot;:1}]},{&quot;title&quot;:&quot;Transferir a ejecutivo para revisi\u00f3n&quot;,&quot;UUID&quot;:&quot;4aae06b6-c7e1-c8b2-a7ad-122e27578b99&quot;,&quot;type&quot;:&quot;group&quot;,&quot;id&quot;:10,&quot;next&quot;:&quot;41acbac1-0332-8c85-6aed-f4ee1b0015a0&quot;,&quot;primitives&quot;:[{&quot;UUID&quot;:&quot;1bb2a663-2339-45e8-9107-adf620df19a8&quot;,&quot;parameters&quot;:{&quot;mensaje&quot;:&quot;Se ha enviado sus comentarios al cliente para la revision de su documentos&quot;,&quot;titulo&quot;:&quot;Cotizaciones&quot;},&quot;id&quot;:&quot;08759241-ae6c-169a-052f-b38b29bd3a33&quot;,&quot;lIdex&quot;:1},{&quot;UUID&quot;:&quot;9588f60a-c7dc-4645-abf9-a2d969b89868&quot;,&quot;parameters&quot;:{&quot;idUsr&quot;:&quot;&lt;?php     \n     $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); \n     $correo = $forma-&gt;valorForma(\&quot;correo\&quot;); \n     $cliente = $forma-&gt;valorForma(\&quot;razonsocial\&quot;); \n     $userId = $this-&gt;controller-&gt;aauth-&gt;get_user_id($correo); \n     return $userId;&quot;,&quot;filtro&quot;:&quot;reCotizar&quot;,&quot;mensajeAEnviar&quot;:&quot;&lt;?php  \n     $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); \n     $cliente = $forma-&gt;valorForma(\&quot;razonsocial\&quot;); \n     return \&quot;Favor de hacer las modificaciones solicitadas a sus documentos $cliente\&quot;;&quot;,&quot;delegados&quot;:&quot;&lt;?php  \n return $this-&gt;controller-&gt;xmlObj-&gt;process-&gt;userCreator[\&quot;id\&quot;];&quot;},&quot;id&quot;:&quot;c345e0db-8be7-6983-fce4-2a892ec79b93&quot;,&quot;lIdex&quot;:3}]},{&quot;type&quot;:&quot;start&quot;,&quot;UUID&quot;:&quot;f8ce2a27-1b1a-c7d4-fa51-558547c67e04&quot;,&quot;id&quot;:11,&quot;next&quot;:&quot;b68dc6e4-20ec-8e71-a547-53ceb3f7e116&quot;,&quot;primitives&quot;:[]},{&quot;type&quot;:&quot;conditional&quot;,&quot;UUID&quot;:&quot;3537b109-d507-eabd-162e-576d3d5e2497&quot;,&quot;id&quot;:12,&quot;conditions&quot;:[{&quot;condition&quot;:&quot;  \n \/\/Si se oprimi\u00f3 el boton cotizarseguro es porque quiere ayuda con la cotizaci\u00f3n del seguro  \n $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); \n return ($forma-&gt;existeValorForma(\&quot;cotizarseguro\&quot;)); \n  &quot;,&quot;next&quot;:&quot;632ee36b-4b42-5c1a-5f3a-338194a6e0e7&quot;,&quot;UUID&quot;:&quot;f482dcb4-4848-cb82-aad3-c03e2ee5fad0&quot;},{&quot;condition&quot;:&quot;  \n \/\/Si no se oprimi\u00f3 el boton cotizarseguro es porque no quiere ayuda con la cotizaci\u00f3n del seguro  \n $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('130fbbe6-6479-4b8e-9de4-bea8468399e8'); \n return !($forma-&gt;existeValorForma(\&quot;cotizarseguro\&quot;)); \n  &quot;,&quot;next&quot;:&quot;714ba889-0e4a-3d07-f0de-8469f857f430&quot;,&quot;UUID&quot;:&quot;2f9bfd6e-0de5-e3b2-2380-0c027c015003&quot;}]},{&quot;type&quot;:&quot;conditional&quot;,&quot;UUID&quot;:&quot;76220e99-69ad-130b-d98c-5415c160a400&quot;,&quot;id&quot;:13,&quot;conditions&quot;:[{&quot;condition&quot;:&quot;  \n \/\/Si se oprimi\u00f3 el boton cotizarseguro es porque quiere ayuda con la cotizaci\u00f3n del seguro  \n $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('871f93dd-f2db-4caf-9685-e7712250a794'); \n return ($forma-&gt;existeValorForma(\&quot;botonsolicitarcambios\&quot;)); \n  &quot;,&quot;next&quot;:&quot;83455bb4-dc19-4f62-36fb-9019d430f31e&quot;,&quot;UUID&quot;:&quot;eefb0018-4ad4-67b8-3acc-658181c27864&quot;},{&quot;condition&quot;:&quot;  \n \/\/Si se oprimi\u00f3 el boton cotizarseguro es porque quiere ayuda con la cotizaci\u00f3n del seguro  \n $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('871f93dd-f2db-4caf-9685-e7712250a794'); \n return !($forma-&gt;existeValorForma(\&quot;botonsolicitarcambios\&quot;)); \n  &quot;,&quot;next&quot;:&quot;af5f8175-9537-763e-1b0f-037fa1e3c008&quot;,&quot;UUID&quot;:&quot;6f7f1f4b-c16a-72cb-2c83-677d8c11e004&quot;}]},{&quot;type&quot;:&quot;conditional&quot;,&quot;UUID&quot;:&quot;35951085-f355-80fe-9c08-614fcf5518b8&quot;,&quot;id&quot;:14,&quot;conditions&quot;:[{&quot;condition&quot;:&quot;    \n \/\/Si se oprimi\u00f3 el boton enviar mensaje es porque algun documento es erroneo y se debe enviar notificacion al cliente \n $forma = $this-&gt;controller-&gt;xmlObj-&gt;forma('0ec82f42-540e-4fa5-abd4-2cb3edc1902d'); \n return !($forma-&gt;existeValorForma(\&quot;botonenviarmensaje\&quot;)); \n  &quot;,&quot;next&quot;:&quot;4aae06b6-c7e1-c8b2-a7ad-122e27578b99&quot;,&quot;UUID&quot;:&quot;79a8809b-c9f6-acb4-6709-23b16b1c6902&quot;}]}],&quot;firstGroup&quot;:&quot;b68dc6e4-20ec-8e71-a547-53ceb3f7e116&quot;}"/>
+    <tablaAmortizaciones>
+      <datos tipo_cotizacion="nueva" correo="juan.perez@pisa.com.mx" cliente="Laboratorios PISA de M&#xE9;xico S.A. de C.V." marca="2" modelo="5" tipo="7" anio="2018" precio="0.00" anticipo="0.00" comision="2.8" tipo_gps="normal" sinrenta="no" monto_a_pagar="0" otros_gastos="3400" deposito_garantia_reembolsable="0.00" tasa="tasaAgencia" tasa6="27.00" tasa12="27.00" tasa18="27.50" tasa24="28.00" tasa36="28.50" tasa48="29.00" tasa60="30.00" valorResidual="normal" valorResidual6="50.00" valorResidual12="50.00" valorResidual18="45.00" valorResidual24="40.00" valorResidual36="30.00" valorResidual48="15.00" valorResidual60="5.00" valor_seguro6="0" valor_seguro12="0" valor_seguro18="0" valor_seguro24="0" valor_seguro36="0" valor_seguro48="0" valor_seguro60="0" plazo6="0" plazo12="1" plazo18="1" plazo24="1" plazo36="1" plazo48="1" plazo60="0" valor_gps6="2320.00" valor_gps12="2320.00" valor_gps18="3074.00" valor_gps24="3592.00" valor_gps36="5104.00" valor_gps48="6612.00" valor_gps60="9352.00">
+        <meses12 monto_a_pagar="0" pago_mensual="260" seguro_anual="0" seguro_anual_parcial="0" pago_mensual_seguro="0" desembolso_final="5980" deposito_garantia_final="0.00" gasto_apertura_final="0.00" gps="2,320.00" otros_gastos_final="3,400.00" valor_residual_final="0" bonificacion="0" valor_residual_bonificacion="0" renta_mensual_iva="2689.6551724138" ahorro_isr="-806.89655172414" neto="1882.7586206897" depreciacion="-0" costo_despues_impuestos="1882.7586206897"/>
+        <meses18 monto_a_pagar="0" pago_mensual="260" seguro_anual="0" seguro_anual_parcial="0" pago_mensual_seguro="0" desembolso_final="6734" deposito_garantia_final="0.00" gasto_apertura_final="0.00" gps="3,074.00" otros_gastos_final="3,400.00" valor_residual_final="0" bonificacion="0" valor_residual_bonificacion="0" renta_mensual_iva="4034.4827586207" ahorro_isr="-1210.3448275862" neto="2824.1379310345" depreciacion="-0" costo_despues_impuestos="2824.1379310345"/>
+        <meses24 monto_a_pagar="0" pago_mensual="230" seguro_anual="0" seguro_anual_parcial="0" pago_mensual_seguro="0" desembolso_final="7222" deposito_garantia_final="0.00" gasto_apertura_final="0.00" gps="3,592.00" otros_gastos_final="3,400.00" valor_residual_final="0" bonificacion="0" valor_residual_bonificacion="0" renta_mensual_iva="4758.6206896552" ahorro_isr="-1427.5862068966" neto="3331.0344827586" depreciacion="-0" costo_despues_impuestos="3331.0344827586"/>
+        <meses36 monto_a_pagar="0" pago_mensual="220" seguro_anual="0" seguro_anual_parcial="0" pago_mensual_seguro="0" desembolso_final="8724" deposito_garantia_final="0.00" gasto_apertura_final="0.00" gps="5,104.00" otros_gastos_final="3,400.00" valor_residual_final="0" bonificacion="0" valor_residual_bonificacion="0" renta_mensual_iva="6827.5862068966" ahorro_isr="-2048.275862069" neto="4779.3103448276" depreciacion="-0" costo_despues_impuestos="4779.3103448276"/>
+        <meses48 monto_a_pagar="0" pago_mensual="210" seguro_anual="0" seguro_anual_parcial="0" pago_mensual_seguro="0" desembolso_final="10222" deposito_garantia_final="0.00" gasto_apertura_final="0.00" gps="6,612.00" otros_gastos_final="3,400.00" valor_residual_final="0" bonificacion="0" valor_residual_bonificacion="0" renta_mensual_iva="8689.6551724138" ahorro_isr="-2606.8965517241" neto="6082.7586206897" depreciacion="-0" costo_despues_impuestos="6082.7586206897"/>
+      </datos>
+    </tablaAmortizaciones>
+    <ajaxParams eventoAjax="onSubmit" controlAjax="">
+      <param type="post" id="formUUID" value="0ec82f42-540e-4fa5-abd4-2cb3edc1902d"/>
+      <param type="post" id="processId" value="137"/>
+      <param type="post" id="enviarmensaje" value="si"/>
+      <param type="post" id="comentarios" value="Hola"/>
+      <param type="post" id="botonenviarmensaje" value=""/>
+    </ajaxParams>
+  </process>
+</xml>

@@ -1,0 +1,62 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+	border: 1px #888 solid;
+}
+
+#formRegistro {
+	width: 500px;
+	border: 1px #666666 solid;
+	background: #eeb;
+	padding: 15px;
+}
+
+.filaCampo {
+	padding: 2px;
+	height: 25px;
+}
+
+.etiqueta {
+	width: 40%;
+	float: left;
+}
+
+.campo {
+	width: 60%;
+	float: right;
+}
+
+
+div.autocomplete
+{
+	position:absolute;
+	width:250px;
+	background-color:white;
+	border:1px solid #888;
+	margin:0px;
+	padding:0px;
+}
+
+div.autocomplete ul
+{
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+}
+
+div.autocomplete ul li.selected
+{
+	background-color:#ffb;
+}
+
+div autocomplete ul li
+{
+	list-style-type:none;
+	display:block;
+	margin:0px;
+	padding:2px;
+	height:24px;
+	cursor:pointer;
+}
